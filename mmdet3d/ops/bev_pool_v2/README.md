@@ -34,9 +34,9 @@ cost:  9.005592823028564
 the kernel speed up is up to 500X
 
 before optimize
-![Alt text](ae5ac08f8b9c8404b3f1955eb91045b.png)
+![Alt text](../../../resources/ae5ac08f8b9c8404b3f1955eb91045b.png)
 after optimize
-![Alt text](d987c417f42f9900d4ebc821633296f.png)
+![Alt text](../../../resources/d987c417f42f9900d4ebc821633296f.png)
 
 
 
